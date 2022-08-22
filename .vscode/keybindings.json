@@ -1,0 +1,5 @@
+{
+    "key": "tab",
+    "command": "tabOutOrReindent",
+    "when": "editorTextFocus && !editorReadonly && !editorTabMovesFocus && !suggestWidgetVisible && !inSnippetMode"
+  }
